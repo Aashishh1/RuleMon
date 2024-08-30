@@ -25,8 +25,16 @@ A real-time traffic violation detection system enables authorities to monitor ro
 ##  flowchart
 ![overall-usage](https://github.com/user-attachments/assets/22539a1b-dafa-4cdc-b0bf-dca2de232908)
 
+## system flowchart
+![System_Flowchart](https://github.com/user-attachments/assets/37fb12b5-dd53-4b09-bfd8-bebc443c5629)
+
+
 ## System Overview
 ![system](https://github.com/user-attachments/assets/9f8c5df9-680a-4c8e-b8c1-fa820070dfc4)
+
+## workflow diagram
+![Workflow Diagram](https://github.com/user-attachments/assets/81098441-e2cf-487e-8b68-79730c54b7cf)
+
 
 ## Database Structure
 ![schema](https://github.com/user-attachments/assets/a887df0c-bc7a-4656-9362-56aa0a16707f)
