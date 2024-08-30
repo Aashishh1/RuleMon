@@ -20,3 +20,13 @@ A real-time traffic violation detection system enables authorities to monitor ro
 | **mediapipe**                  | 0.10.14  | Library for building multimodal machine learning pipelines, particularly useful for tasks like pose estimation. |
 | **tensorflow**                 | (Version)| End-to-end open-source platform for machine learning, useful for building and training models.          |
 | **sounddevice**                | 0.4.7    | Simple interface for playing and recording sound, important for audio processing tasks.                 |
+
+
+##  flowchart
+![overall-usage](https://github.com/user-attachments/assets/22539a1b-dafa-4cdc-b0bf-dca2de232908)
+
+## System Overview
+![system](https://github.com/user-attachments/assets/9f8c5df9-680a-4c8e-b8c1-fa820070dfc4)
+
+## Database Structure
+![schema](https://github.com/user-attachments/assets/a887df0c-bc7a-4656-9362-56aa0a16707f)
