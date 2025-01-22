@@ -2,39 +2,13 @@
 
 <div align='center'> <h1> Traffic Violation Detection System🚦</h1> </div>
 
-## <h1>Introduction</h1>
 
-The growing number of vehicles in urban areas has led to increased traffic volumes, making traffic violations a significant concern. These infractions not only cause extensive property damage but also result in accidents that jeopardize lives. To tackle this urgent issue and mitigate such consequences, traffic violation detection systems are crucial. These systems ensure that traffic regulations are enforced consistently and assist in identifying and apprehending offenders.
+## Overview Table
 
-A real-time traffic violation detection system enables authorities to monitor roads continuously, enhancing the efficiency and effectiveness of road safety measures. By detecting violations more rapidly than human observers, the system helps traffic enforcers uphold safe road practices with greater accuracy. This system can identify common traffic violations in real-time, including signal violations, parking violations, and wrong-way driving. Furthermore, it features a user-friendly graphical interface that simplifies operation, allowing users to oversee traffic and address rule violations with ease.
-
-## Key Libraries
-
-| Library                        | Version  | Description                                                         |
-|--------------------------------|----------|---------------------------------------------------------------------|
-| **numpy**                      | 1.26.4   | Core library for numerical computing with multi-dimensional arrays, essential for handling large datasets efficiently. |
-| **pandas**                     | 2.2.2    | Powerful data manipulation and analysis library, perfect for processing and analyzing structured data. |
-| **matplotlib**                 | 3.9.1    | Comprehensive library for creating visualizations in Python, used for plotting data and results.        |
-| **scipy**                      | 1.14.0   | Library for scientific computing, providing modules for optimization, integration, and more.            |
-| **opencv-python**              | 4.10.0.84| Real-time computer vision library used for image and video processing tasks.                            |
-| **mediapipe**                  | 0.10.14  | Library for building multimodal machine learning pipelines, particularly useful for tasks like pose estimation. |
-| **tensorflow**                 | (Version)| End-to-end open-source platform for machine learning, useful for building and training models.          |
-| **sounddevice**                | 0.4.7    | Simple interface for playing and recording sound, important for audio processing tasks.                 |
-
-
-##  flowchart
-![overall-usage](https://github.com/user-attachments/assets/22539a1b-dafa-4cdc-b0bf-dca2de232908)
-
-## system flowchart
-![System_Flowchart](https://github.com/user-attachments/assets/37fb12b5-dd53-4b09-bfd8-bebc443c5629)
-
-
-## System Overview
-![system](https://github.com/user-attachments/assets/9f8c5df9-680a-4c8e-b8c1-fa820070dfc4)
-
-## workflow diagram
-![Workflow Diagram](https://github.com/user-attachments/assets/81098441-e2cf-487e-8b68-79730c54b7cf)
-
-
-## Database Structure
-![schema](https://github.com/user-attachments/assets/a887df0c-bc7a-4656-9362-56aa0a16707f)
+| **Section**                              | **Description**                                                                                                                                                      | **Key Features**                                                                                                                                                                                                                      |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Traffic Analytics with Lane-Level Vehicle Speed Estimation** 🚥 | Advanced computer vision to estimate vehicle speeds at lane-level precision for optimizing traffic flow and infrastructure.                                           | - Accurate vehicle speed estimation<br>- Simultaneous multi-lane tracking<br>- Data-driven insights<br>- Applications in urban planning, traffic management, and autonomous vehicles                                                |
+| **Vehicle Classification with Edge Computer Vision** 🚀           | Real-time vehicle classification and weight estimation using edge computing to improve accuracy and reduce costs.                                                   | - Supports 12 vehicle classes<br>- Combines axle counting and ALPR<br>- Automates processes<br>- Scalable for future traffic demands                                                                                                 |
+| **Vehicle Counter using Vision Analytics** ✅                    | Detects and counts vehicles crossing transition lines, tracks their direction, and maintains totals for each type.                                                  | - Multi-vehicle detection<br>- Transition line analysis<br>- Direction tracking<br>- Categorical count                                                                                                                             |
+| **AI-powered License Plate Recognition** 🚗🚀                   | Uses YOLO for vehicle detection and EasyOCR for license plate recognition to enable smart city solutions and enhanced traffic monitoring.                            | - Real-time traffic monitoring<br>- Traffic violation detection<br>- Rapid incident response<br>- Applications in urban safety and traffic management                                                                              |
+| **Car Plate Detection and Recognition Using YOLOv11 and PaddleOCR** 🚘💻 | Advanced detection and recognition system using YOLOv11 and PaddleOCR with database integration and video processing capabilities.                                   | - Precision: 98.2%, Recall: 94.1%, mAP@0.5: 97.2%<br>- Database integration with MySQL<br>- Web interface with Apache<br>- Flask-based AI video pipeline<br>- Dataset sourced from Roboflow                                        |
