@@ -13,7 +13,7 @@ Below are the diagrams illustrating the **Functional Workflow** and **Interactio
 | <img src="https://github.com/user-attachments/assets/4e8d46a1-b0f4-4c84-958f-e6a29baea4a1" alt="Functional Workflow" width="500" height="400"> | <img src="https://github.com/user-attachments/assets/40296b57-9795-4dcf-bac5-91f3d198f27d" alt="Interaction Model" width="500" height="400"> |
 
 ---
-
+.
 #### 1. 🚦 Intersection Violation Detection
 - Detects a variety of traffic violations including red light running, wrong-way driving, not following the directional sign, illegal lane change, weaving out of the lane, speeding, etc.
 
