@@ -1,14 +1,15 @@
 <div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/7e10e502-c8ab-4553-8a44-5b5f3e38fc74'/></div>
 
-<div align='center'> <h1> Traffic Violation Detection System🚦</h1> </div>
+Welcome to **RuleMon**! 🌟
 
+RuleMon is an innovative dashboard system designed to improve road safety by detecting and visualizing traffic rule violations in real-time. 🚗💨 By leveraging cutting-edge technologies like computer vision and machine learning, RuleMon empowers traffic authorities with:
 
-## Overview Table
+----
 
-| **Section**                              | **Description**                                                                                                                                                      | **Key Features**                                                                                                                                                                                                                      |
-|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Traffic Analytics with Lane-Level Vehicle Speed Estimation** 🚥 | Advanced computer vision to estimate vehicle speeds at lane-level precision for optimizing traffic flow and infrastructure.                                           | - Accurate vehicle speed estimation<br>- Simultaneous multi-lane tracking<br>- Data-driven insights<br>- Applications in urban planning, traffic management, and autonomous vehicles                                                |
-| **Vehicle Classification with Edge Computer Vision** 🚀           | Real-time vehicle classification and weight estimation using edge computing to improve accuracy and reduce costs.                                                   | - Supports 12 vehicle classes<br>- Combines axle counting and ALPR<br>- Automates processes<br>- Scalable for future traffic demands                                                                                                 |
-| **Vehicle Counter using Vision Analytics** ✅                    | Detects and counts vehicles crossing transition lines, tracks their direction, and maintains totals for each type.                                                  | - Multi-vehicle detection<br>- Transition line analysis<br>- Direction tracking<br>- Categorical count                                                                                                                             |
-| **AI-powered License Plate Recognition** 🚗🚀                   | Uses YOLO for vehicle detection and EasyOCR for license plate recognition to enable smart city solutions and enhanced traffic monitoring.                            | - Real-time traffic monitoring<br>- Traffic violation detection<br>- Rapid incident response<br>- Applications in urban safety and traffic management                                                                              |
-| **Car Plate Detection and Recognition Using YOLOv11 and PaddleOCR** 🚘💻 | Advanced detection and recognition system using YOLOv11 and PaddleOCR with database integration and video processing capabilities.                                   | - Precision: 98.2%, Recall: 94.1%, mAP@0.5: 97.2%<br>- Database integration with MySQL<br>- Web interface with Apache<br>- Flask-based AI video pipeline<br>- Dataset sourced from Roboflow                                        |
+Below are the diagrams illustrating the **Functional Workflow** and **Interaction Model**:
+
+| **Functional Workflow**                    | **Interaction Model**                       |
+|--------------------------------------------|---------------------------------------------|
+|![Functional Workflow](https://github.com/user-attachments/assets/4e8d46a1-b0f4-4c84-958f-e6a29baea4a1) | ![Interaction Model](https://github.com/user-attachments/assets/40296b57-9795-4dcf-bac5-91f3d198f27d) |
+
+---
