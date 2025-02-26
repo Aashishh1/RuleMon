@@ -55,7 +55,7 @@ Below are the diagrams illustrating the **Functional Workflow** and **Interactio
 |--------------------------------------------|--------------------------------------------|------------------------------------------|
 | ![No Helmet Detected](https://github.com/user-attachments/assets/6a1339e4-72e6-4f74-a121-b4a4abd2d815) | ![Cameras to Detect](https://github.com/user-attachments/assets/2c1bf3cc-a8cf-48ea-823b-2b4be439e128) | ![Generate E-Challan](https://github.com/user-attachments/assets/00a99640-23f4-4ead-ab34-d8a1d2e5cb0f) |
 
----
+----
 
 
 
