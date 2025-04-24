@@ -28,6 +28,33 @@ This project is a **computer vision-based system** designed to detect traffic vi
 
 ---
 
+## 🧠 TensorFlow/Keras in This Project
+
+We use **TensorFlow with Keras** to build and run a deep learning model that can:
+
+- 🧍 Detect vehicles in real-time video feeds  
+- 🚦 Identify traffic rule violations such as:
+  - Signal jumping  
+  - Illegal parking  
+  - Wrong direction movement
+
+Keras provides a simple and flexible API to design the neural network, while TensorFlow ensures fast and efficient model execution, especially when processing continuous video streams from traffic cameras.
+
+---
+
+## 🖥️ PyQt5 in This Project
+
+We use **PyQt5** to build the **Graphical User Interface (GUI)** of the Traffic Rules Violation Detection System.
+
+This allows us to create a **user-friendly desktop application** for:
+
+- 👮‍♂️ Admin dashboard for monitoring violations
+- 🎥 Live video stream display
+- 🔍 Search and view vehicle details
+- 📊 Real-time traffic data tracking
+
+---
+
 ## 📸 GUI Dashboard Preview
 
 <table>
