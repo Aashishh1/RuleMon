@@ -31,5 +31,86 @@
 | **zipp**             | 0.5.1    | ZIP files handle karne ke liye, importlib-metadata ke sath kaam karta hai. |
 
 
+# 🚦 Traffic Rules and Regulations
 
+## Traffic Signals and Signs 🚥
+- **Obey traffic signals**:
+  - 🔴 **Red**: Stop immediately.
+  - 🟡 **Yellow**: Prepare to stop.
+  - 🟢 **Green**: Proceed with caution.
+- **Follow road signs**:
+  - 🚸 Adhere to speed limits, no-entry, one-way, and pedestrian crossing signs.
+  - 🛑 Ignoring signs can lead to fines or accidents.
+
+## Speed Limits 🛣️
+- 🛵 Follow designated speed limits for highways, urban areas, and residential zones.
+- ⚠️ **Consequences of speeding**:
+  - 💰 Fines
+  - 📜 License suspension
+  - 🔒 Imprisonment (severe cases)
+
+## Lane Discipline 🚗
+- ⬅️ Keep to the **left side** of the road.
+- ➡️ Overtake from the **right side** only when safe.
+- 🛤️ Maintain proper lane discipline to prevent congestion and accidents.
+
+## Drunk Driving 🍺
+- 🚫 Driving under the influence of alcohol or drugs is **strictly prohibited**.
+- 🍷 Permissible **BAC limit**: 0.03% (30 mg alcohol/100 ml blood).
+- ⚖️ **Penalties**:
+  - 💸 Fines
+  - 📜 License suspension
+  - 🔒 Imprisonment
+
+## Seat Belt and Helmet Usage 🪖
+- 🚘 **Seat belts** mandatory for drivers and passengers.
+- 🏍️ **Helmets** required for two-wheeler riders (must meet standards).
+- ⚠️ Non-compliance leads to fines.
+
+## Mobile Phone Usage 📱
+- 🚫 Using mobile phones while driving is **prohibited** (except hands-free devices).
+- 💸 Distracted driving can result in penalties and fines.
+
+## Parking Regulations 🅿️
+- ✅ Park only in **designated areas**.
+- 🚨 Unauthorized parking may lead to:
+  - 💰 Fines
+  - 🚛 Vehicle towing
+
+## School Bus Safety 🚌
+- 🛑 Follow specific rules for school buses:
+  - 🛵 Speed limits
+  - 🚸 Proper signage
+  - 👨‍✈️ Responsible driving practices
+
+## Vehicle Registration and Insurance 📋
+- 🏷️ All vehicles must be **registered** with the Regional Transport Office (RTO).
+- 🛡️ **Mandatory motor insurance** (including third-party liability coverage).
+- ⚠️ Non-compliance results in penalties.
+
+## Penalties for Traffic Violations ⚖️
+- 🚨 Violations may lead to:
+  - 💰 Fines
+  - 📜 License suspension
+  - 🔒 Imprisonment
+- 📏 Penalties vary by offense severity and state.
+
+## Rules for Pedestrians 🚶
+- 🚥 Follow traffic signal rules.
+- 📴 Avoid using cell phones while walking.
+- 👀 Watch carefully while crossing roads.
+- 🦓 Always use **zebra crossings**.
+
+## Lesser-Known Rules (Penalties Apply) 🚫
+- 🚗 **Blocking pathways** while parking is prohibited.
+- 🩺 **No first-aid kit** in vehicle (fine in Chennai and Kolkata).
+- 🚬 **Smoking in a car** is illegal.
+- 📺 **Installing a TV near front seats** is illegal (in Mumbai).
+- 🚶‍♂️ **Providing lifts to strangers** can lead to fines.
+- 🌫️ **No pollution control certificate**: Fine up to ₹10,000.
+- 🔇 **Driving without a silencer**: Fine of ₹500–₹1,500.
+
+---
+
+Stay safe, follow the rules, and drive responsibly! 🚦
 
