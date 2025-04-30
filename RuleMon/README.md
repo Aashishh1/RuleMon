@@ -1,3 +1,37 @@
+<div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/7e10e502-c8ab-4553-8a44-5b5f3e38fc74'/></div>
+
+Welcome to **RuleMon**! 🌟
+This project is a **computer vision-based system** designed to detect traffic violations like red light breaking, illegal parking, and wrong-way driving. It uses **OpenCV**, **TensorFlow**, and **PyQt5** to analyze real-time video and show results in a simple GUI.
+
+## 📌 Features
+
+- 🔴 **Signal Violation Detection** (Red Light Jumping)
+- 🚫 **Illegal Parking Detection**
+- ↩️ **Wrong Direction Movement Detection**
+- 📹 **Live CCTV Feed Monitoring**
+- 🧠 **Vehicle Type Classification (Car, Bike, Truck, etc.)**
+- 🖥️ **Admin Dashboard (PyQt GUI)**
+- 📁 **Violation Record Logging with Image Evidence**
+- 📊 **Exportable CSV Reports**
+
+---
+
+## 🧠 Technologies Used
+
+| Library              | Version  | Project Mein Use                                                    |
+|----------------------|----------|--------------------------------------------------------------------|
+| **helpdev**          | 0.6.10   | Debugging aur project ke environment details check karne ke liye.   |
+| **importlib-metadata**| 0.17     | Installed packages ki details (jaise version) fetch karne ke liye.  |
+| **imutils**          | 0.5.2    | Images ko process karne ke liye simple functions provide karta hai.  |
+| **numpy**            | 1.16.4   | Numerical calculations aur data arrays ke liye.                     |
+| **opencv-python**    | 3.4.5.20 | Image ya video processing, jaise object detection ya filtering.      |
+| **pkg-resources**    | 0.0.0    | Package dependencies aur resources manage karne ke liye.            |
+| **psutil**           | 5.6.2    | System ke CPU, memory, ya process usage ko monitor karne ke liye.   |
+| **PyQt5**            | 5.12.1   | Project ke liye graphical user interface (GUI) banane ke liye.      |
+| **PyQt5-sip**        | 4.19.17  | PyQt5 ke liye C++ aur Python integration ke liye zaruri.            |
+| **PyQt5-stubs**      | 5.12.1.0 | Code likhne mein type checking aur autocompletion ke liye.           |
+| **QDarkStyle**       | 2.7      | GUI ko dark theme dene ke liye, taki UI attractive lage.            |
+| **zipp**             | 0.5.1    | ZIP files handle karne ke liye, importlib-metadata ke sath kaam karta hai. |
 
 ## 📦 Dependencies
 
@@ -15,100 +49,71 @@
 ![zipp](https://img.shields.io/badge/zipp-0.5.1-blue?style=for-the-badge)
 
 
-| Library              | Version  | Project Mein Use                                                    |
-|----------------------|----------|--------------------------------------------------------------------|
-| **helpdev**          | 0.6.10   | Debugging aur project ke environment details check karne ke liye.   |
-| **importlib-metadata**| 0.17     | Installed packages ki details (jaise version) fetch karne ke liye.  |
-| **imutils**          | 0.5.2    | Images ko process karne ke liye simple functions provide karta hai.  |
-| **numpy**            | 1.16.4   | Numerical calculations aur data arrays ke liye.                     |
-| **opencv-python**    | 3.4.5.20 | Image ya video processing, jaise object detection ya filtering.      |
-| **pkg-resources**    | 0.0.0    | Package dependencies aur resources manage karne ke liye.            |
-| **psutil**           | 5.6.2    | System ke CPU, memory, ya process usage ko monitor karne ke liye.   |
-| **PyQt5**            | 5.12.1   | Project ke liye graphical user interface (GUI) banane ke liye.      |
-| **PyQt5-sip**        | 4.19.17  | PyQt5 ke liye C++ aur Python integration ke liye zaruri.            |
-| **PyQt5-stubs**      | 5.12.1.0 | Code likhne mein type checking aur autocompletion ke liye.           |
-| **QDarkStyle**       | 2.7      | GUI ko dark theme dene ke liye, taki UI attractive lage.            |
-| **zipp**             | 0.5.1    | ZIP files handle karne ke liye, importlib-metadata ke sath kaam karta hai. |
+---
 
+## 🧠 TensorFlow/Keras in This Project
 
-# 🚦 Traffic Rules and Regulations
+We use **TensorFlow with Keras** to build and run a deep learning model that can:
 
-## Traffic Signals and Signs 🚥
-- **Obey traffic signals**:
-  - 🔴 **Red**: Stop immediately.
-  - 🟡 **Yellow**: Prepare to stop.
-  - 🟢 **Green**: Proceed with caution.
-- **Follow road signs**:
-  - 🚸 Adhere to speed limits, no-entry, one-way, and pedestrian crossing signs.
-  - 🛑 Ignoring signs can lead to fines or accidents.
+- 🧍 Detect vehicles in real-time video feeds  
+- 🚦 Identify traffic rule violations such as:
+  - Signal jumping  
+  - Illegal parking  
+  - Wrong direction movement
 
-## Speed Limits 🛣️
-- 🛵 Follow designated speed limits for highways, urban areas, and residential zones.
-- ⚠️ **Consequences of speeding**:
-  - 💰 Fines
-  - 📜 License suspension
-  - 🔒 Imprisonment (severe cases)
+Keras provides a simple and flexible API to design the neural network, while TensorFlow ensures fast and efficient model execution, especially when processing continuous video streams from traffic cameras.
 
-## Lane Discipline 🚗
-- ⬅️ Keep to the **left side** of the road.
-- ➡️ Overtake from the **right side** only when safe.
-- 🛤️ Maintain proper lane discipline to prevent congestion and accidents.
+---
 
-## Drunk Driving 🍺
-- 🚫 Driving under the influence of alcohol or drugs is **strictly prohibited**.
-- 🍷 Permissible **BAC limit**: 0.03% (30 mg alcohol/100 ml blood).
-- ⚖️ **Penalties**:
-  - 💸 Fines
-  - 📜 License suspension
-  - 🔒 Imprisonment
+## 🖥️ PyQt5 in This Project
 
-## Seat Belt and Helmet Usage 🪖
-- 🚘 **Seat belts** mandatory for drivers and passengers.
-- 🏍️ **Helmets** required for two-wheeler riders (must meet standards).
-- ⚠️ Non-compliance leads to fines.
+We use **PyQt5** to build the **Graphical User Interface (GUI)** of the Traffic Rules Violation Detection System.
 
-## Mobile Phone Usage 📱
-- 🚫 Using mobile phones while driving is **prohibited** (except hands-free devices).
-- 💸 Distracted driving can result in penalties and fines.
+This allows us to create a **user-friendly desktop application** for:
 
-## Parking Regulations 🅿️
-- ✅ Park only in **designated areas**.
-- 🚨 Unauthorized parking may lead to:
-  - 💰 Fines
-  - 🚛 Vehicle towing
+- 👮‍♂️ Admin dashboard for monitoring violations
+- 🎥 Live video stream display
+- 🔍 Search and view vehicle details
+- 📊 Real-time traffic data tracking
 
-## School Bus Safety 🚌
-- 🛑 Follow specific rules for school buses:
-  - 🛵 Speed limits
-  - 🚸 Proper signage
-  - 👨‍✈️ Responsible driving practices
+---
 
-## Vehicle Registration and Insurance 📋
-- 🏷️ All vehicles must be **registered** with the Regional Transport Office (RTO).
-- 🛡️ **Mandatory motor insurance** (including third-party liability coverage).
-- ⚠️ Non-compliance results in penalties.
+## 📸 GUI Dashboard Preview
 
-## Penalties for Traffic Violations ⚖️
-- 🚨 Violations may lead to:
-  - 💰 Fines
-  - 📜 License suspension
-  - 🔒 Imprisonment
-- 📏 Penalties vary by offense severity and state.
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0c15f205-86bb-44cc-afe2-84eb633f2f9b" width="400"/><br><b>Admin Dashboard</b></td>
+    <td><img src="https://github.com/user-attachments/assets/791f2768-8cc8-4956-8fe7-db1879f112a3" width="500"/><br><b>Violation Alert View</b></td>
+  </tr>
+</table>
 
-## Rules for Pedestrians 🚶
-- 🚥 Follow traffic signal rules.
-- 📴 Avoid using cell phones while walking.
-- 👀 Watch carefully while crossing roads.
-- 🦓 Always use **zebra crossings**.
+---
 
-## Lesser-Known Rules (Penalties Apply) 🚫
-- 🚗 **Blocking pathways** while parking is prohibited.
-- 🩺 **No first-aid kit** in vehicle (fine in Chennai and Kolkata).
-- 🚬 **Smoking in a car** is illegal.
-- 📺 **Installing a TV near front seats** is illegal (in Mumbai).
-- 🚶‍♂️ **Providing lifts to strangers** can lead to fines.
-- 🌫️ **No pollution control certificate**: Fine up to ₹10,000.
-- 🔇 **Driving without a silencer**: Fine of ₹500–₹1,500.
+## 🚦 Violation Types
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a8e73fbb-eb33-4c1a-80d3-f6984688fa4d" width="500"/><br><b>Red Light Violation</b></td>
+    <td><img src="https://github.com/user-attachments/assets/461c11f4-f9ca-4505-b164-f458952c2683" width="450"/><br><b>Illegal Parking</b></td>
+    <td><img src="https://github.com/user-attachments/assets/b8f0aa48-1594-4d9d-952e-b4d949a42978" width="400"/><br><b>Direction</b></td>
+  </tr>
+</table>
+
+---
+
+## 📊 System Flow & Schema
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3f361247-afa3-4f5d-9c93-b872b6db6f92" width="400"/><br><b>System Workflow</b></td>
+    <td><img src="https://github.com/user-attachments/assets/30afdb9c-f763-46ec-9e6f-879e950cc9eb" width="400"/><br><b>Detection Flowchart</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/825e09c8-02e3-433d-af30-18c4fe240b53" width="500"/><br><b>Database Design</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
