@@ -4,25 +4,7 @@
 
 This project is a **computer vision-based system** designed to detect traffic violations like red light breaking, illegal parking, and wrong-way driving.
 
-## Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![helpdev](https://img.shields.io/badge/helpdev-0.6.10-blue?style=for-the-badge)
-![importlib-metadata](https://img.shields.io/badge/importlib--metadata-0.17-blue?style=for-the-badge)
-![imutils](https://img.shields.io/badge/imutils-0.5.2-blue?style=for-the-badge)
-![numpy](https://img.shields.io/badge/numpy-1.16.4-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![opencv-python](https://img.shields.io/badge/opencv--python-3.4.5.20-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![pkg-resources](https://img.shields.io/badge/pkg--resources-0.0.0-blue?style=for-the-badge)
-![psutil](https://img.shields.io/badge/psutil-5.6.2-3776AB?style=for-the-badge) 
-![PyQt5](https://img.shields.io/badge/PyQt5-5.12.1-41CD52?style=for-the-badge&logo=qt&logoColor=white) 
-![PyQt5-sip](https://img.shields.io/badge/PyQt5--sip-4.19.17-blue?style=for-the-badge)
-![PyQt5-stubs](https://img.shields.io/badge/PyQt5--stubs-5.12.1.0-blue?style=for-the-badge) 
-![QDarkStyle](https://img.shields.io/badge/QDarkStyle-2.7-2E3440?style=for-the-badge) 
-![zipp](https://img.shields.io/badge/zipp-0.5.1-blue?style=for-the-badge)
-
-## Demo
+## Screenshot Images
 
 
 ![image](https://github.com/user-attachments/assets/7fc2d039-4591-4c89-b1f1-e9d8ed6e0140)
